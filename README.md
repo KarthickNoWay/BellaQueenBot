@@ -10,7 +10,7 @@ The easiest way to deploy this Bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/prince301102/Tiana-2.0"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-BOT MAKER - [PRINCE](https://t.me/Karthick_46)
+BOT MAKER - [K͜͡ꍏℝϮꀍɪꏳ𝕜™『🇮🇳』✰](https://t.me/Karthick_46)
 
 ### TELEGRAM
 Check me on [TELEGRAM](https://t.me/BellaQueenBot)
