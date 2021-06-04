@@ -74,18 +74,18 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-PM_START_TEXT = """Hello, My name is ༒ 𝙏𝙄𝘼𝙉𝘼 ༒
+PM_START_TEXT = """Hello, My name is 𒉌⃝•••𝕭ꏂ꒒꒒ል 𝕼𝕌Ⓔ︎ᗴ𝐍••• ⃟🧚‍♀✨
 
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
 
-This Pro bot was made by [ℙℝ𝕀ℕℂ𝔼](https://t.me/prince_3011)
+This Pro bot was made by [K͜͡ꍏℝϮꀍɪꏳ𝕜™『🇮🇳』✰](https://t.me/karthick_46)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ༒ 𝙏𝙄𝘼𝙉𝘼 ༒ TO YOUR GROUP ➕️", url="t.me/Tiana_Prince_bot?startgroup=true"),
+            text="➕️ ADD 𒉌⃝•••𝕭ꏂ꒒꒒ል••• ⃟🧚‍♀✨ TO YOUR GROUP ➕️", url="t.me/BellaQueenBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📱ABOUT", callback_data="masha_"),
@@ -93,32 +93,32 @@ buttons = [
     ],
    [
         InlineKeyboardButton(
-            text="🎵 MUSIC GROUP 🎧", url="http://t.me/MUSIC_AND_CHATS")
+            text=" Chatting Group ",url="http://t.me/TamilChatGroup")
    ],
    [
         InlineKeyboardButton(
-            text="✨MY BF✨", url="http://t.me/prince_3011"),
+            text="My Owner", url="http://t.me/karthick_46"),
         InlineKeyboardButton(
-            text="⚜️CHANNEL⚜️", url="https://t.me/PRINCEBOTS"),
+            text="⚜️CHANNEL⚜️", url="https://t.me/KARTHlCK"),
     ],
     [  
-        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/PRINCEBOTSUPPORT"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/I_am_karthick"),
     ], 
     
 ]
 
 HELP_STRINGS = """
-༒ 𝙏𝙄𝘼𝙉𝘼 ༒ WITH NEW FEATURES
+𒉌⃝•••𝕭ꏂ꒒꒒ል••• ⃟🧚‍♀✨ WITH NEW FEATURES
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF TIANA*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF BELLA*꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @PRINCEBOTSUPPORT*
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @i_am_karthick *
 """
 
 
-DONATE_STRING ="""CONTACT ME ON @PRINCE_3011"""
+DONATE_STRING ="""CONTACT ME ON @Karthick_46"""
 
 IMPORTED = {}
 MIGRATEABLE = []
