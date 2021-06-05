@@ -363,7 +363,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *TIANA*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *Bella*, a powerful group management bot built to help you manage your group easily.
                  ⭐️ I can restrict users.
                  ⭐️ I can greet users with customizable welcome messages and even set a group's rules.
                  ⭐️ I have an advanced anti-flood system.
@@ -397,7 +397,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..🤗 I'm *BELLA BOT*
-                 \nHere is the [Source Code](https://GitHub.com/KarthickNoWay/tiana-2.0) .""",
+                 \nHere is the [Source Code](https://t.me/TamilSupport) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
